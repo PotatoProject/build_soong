@@ -262,6 +262,10 @@ org\.codeaurora\.ims.*
 # telephony-ext:
 org\.codeaurora\.internal.*
 
+###################################################
+# QCOM FMRadio
+qcom\.fmradio.*
+
 # MediaTek packages
 com\.mediatek
 mediatek\.app
