@@ -258,3 +258,8 @@ org\.chromium\.arc\..*
 org\.codeaurora\.ims.*
 # telephony-ext:
 org\.codeaurora\.internal.*
+
+# MediaTek packages
+com\.mediatek
+mediatek\.app
+com\.mediatek\..*
